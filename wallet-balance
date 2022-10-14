@@ -14,4 +14,3 @@ const getWalletBalance = async () => {
     } catch (err) {
         console.log(err);
     }
-};
